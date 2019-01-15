@@ -1,4 +1,4 @@
-There are 2 branches:
+There are 3 branches:
 
 -The First is our Master branch (where we will put anything that BOTH will use)
 
