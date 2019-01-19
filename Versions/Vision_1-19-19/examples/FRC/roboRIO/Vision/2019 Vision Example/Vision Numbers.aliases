@@ -1,0 +1,9 @@
+[My Computer]
+My Computer = "172.22.11.1"
+
+[NI roboRIO]
+NI roboRIO = "172.22.11.2"
+
+[Target]
+Target = "172.22.11.2"
+
